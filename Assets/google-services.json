@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708076273118",
+    "firebase_url": "https://ip-project-2023-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ip-project-2023",
+    "storage_bucket": "ip-project-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708076273118:android:c0329fcd524fe1962a714f",
+        "android_client_info": {
+          "package_name": "IP.project2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708076273118-vm4nlovsvhl0iohvm8rqn51vo9f5mpsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIprqoqJMchTNQlGmbjKyQjj8qp5JuNCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708076273118-vm4nlovsvhl0iohvm8rqn51vo9f5mpsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
